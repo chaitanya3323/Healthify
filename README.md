@@ -1,4 +1,4 @@
-# [Health App](https://peaceful-clarke-23a9e1.netlify.app/)
+# Health App - [Healthify](https://peaceful-clarke-23a9e1.netlify.app/)
 
 # Dataset Used
 1. [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
