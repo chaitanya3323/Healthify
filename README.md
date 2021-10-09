@@ -19,7 +19,7 @@
 
 # How to navigate through the repo
  ### Models
-  1. All the models are present in the [model_codes]https://github.com/chaitanya3323/Healthify/tree/master/model_codes).
+  1. All the models are present in the [model_codes](https://github.com/chaitanya3323/Healthify/tree/master/model_codes).
   2. All the pkl files are saved in their respective folders of diseases.
   
  # Steps used for Deployment:
